@@ -1,0 +1,57 @@
+body{
+    font-family: 'Montserrat';
+    background: ;
+}
+#budzet {
+    border: 2px solid ;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+#budzet-input {
+    border: 1px solid;
+}
+#troskovi {
+    border: 2px solid;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+#troskovi-input {
+    border: 1px solid;
+}
+
+#icon{
+    font-size: 45px;
+}
+#novac {
+    font-size: 45px;
+}
+
+#red{
+    width: 45%;
+    border-right: 1px solid grey;
+    padding-right: 15px;
+}
+#red1{
+    width: 35%;
+    text-align: center;
+}
+#red2{
+    width: 20%;
+    text-align: center;
+    margin: 0;
+    padding: 1px 0px 0px 0px;
+}
+.edit-icon {
+  font-size: 15px;
+}
+.delete-icon {
+  font-size: 15px;
+}
+.expense-title {
+    font-size: 14px;
+}
+.table tr td {
+    border-top: 1px solid grey;
+}
