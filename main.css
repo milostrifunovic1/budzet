@@ -1,0 +1,63 @@
+body{
+    font-family: 'Montserrat';
+    background: #f4f5ff;
+}
+#budzet-form {
+    border: 2px solid ;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+#budzet-input {
+    border: 1px solid;
+}
+#troskovi-form {
+    border: 2px solid;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+#troskovi-input {
+    border: 1px solid;
+}
+
+#icon{
+    font-size: 25px;
+}
+.stanje, .troskovi, .sredstva {
+    font-size: 30px;
+}
+#sredstva-suma:after, #troskovi-suma:after, #stanje-suma:after{
+    content: ' rsd';
+    font-size: 20px;
+}
+
+#kol{
+    width: 65%;
+    text-align: left;
+    padding-right: 15px;
+    word-break: break-all;
+}
+#kol1{
+    width: 30%;
+    text-align: left;
+    word-break: break-all;
+}
+#kol2{
+    width: 5%;
+    text-align: center;
+    margin: 0;
+    padding: 1px 0px 0px 0px;
+    cursor: pointer;
+}
+
+.edit-icon {
+  font-size: 15px;
+}
+.delete-icon {
+  font-size: 15px;
+}
+.expense-title {
+    font-size: 14px;
+}
+
